@@ -1,0 +1,35 @@
+Commands for gitbash
+
+
+git config -- global user.name "Name"
+
+git config -- global user.email "email@gmail"
+
+mkdir ~/name-repo
+
+cd ~/name-repo
+
+git init
+
+ git remote add origin https://github.com/ZERO-C/ExData_Plotting1.git
+
+---
+
+git clone https://github.com/ZERO-C/ExData_Plotting1.git
+
+-- 
+---actualizar
+
+----------
+
+git init
+
+git add.R( git add run_analysis.R)
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/ZERO-C/ExData_Plotting1.git
+
+git push -u origin master
+
+ 
